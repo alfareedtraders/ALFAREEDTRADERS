@@ -1,0 +1,18 @@
+
+
+const SITE = {
+  "name": "Alfareed Traders",
+  "currencySymbol": "Rs. ",
+  "whatsappNumber": "923390110342",
+  "whatsappMessage": "Hi Alfareed Traders, I'd like to know more about your flour products.",
+  "phoneDisplay": "+92 339 0110342",
+  "email": "alfareed.pk@gmail.com",
+  "address": "Alfareed Traders, 27-Km,Feroze pur Road Soa Asal,Lahore",
+  "facebook": "https://facebook.com/",
+  "instagram": "https://www.instagram.com/alfareed.pk/"
+};
+
+function whatsappGeneralLink() {
+  const msg = SITE.whatsappMessage || `Hi ${SITE.name}, I'd like to know more about your products.`;
+  return `https://wa.me/${SITE.whatsappNumber}?text=${encodeURIComponent(msg)}`;
+}

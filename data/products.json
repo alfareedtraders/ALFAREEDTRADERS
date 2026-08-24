@@ -1,0 +1,407 @@
+{
+  "categories": [
+    {
+      "slug": "wheat-flour",
+      "name": "Porridge",
+      "icon": "wheat",
+      "blurb": "Dressed up with fresh fruits, honey, and nuts, or made savory with spices, broths, and proteins."
+    },
+    {
+      "slug": "multigrain-flour",
+      "name": "Flour",
+      "icon": "grains",
+      "blurb": "grains for a fibre-rich, wholesome roti."
+    },
+    {
+      "slug": "barley-flour",
+      "name": "Snacks and Others",
+      "icon": "barley",
+      "blurb": "Grounded slow to keep its nutrition intact."
+    }
+  ],
+  "products": [
+    {
+      "slug": "al-fareed-barley-porridge",
+      "name": "Barley Porridge",
+      "category": "wheat-flour",
+      "price": 150,
+      "unit": "450g",
+      "sizes": [
+        "450g"
+      ],
+      "badge": "Best Seller",
+      "short": "Wholesome stone-ground barley porridge, perfect for a simple and nourishing start to your day.",
+      "desc": "Made from carefully selected barley and traditionally ground on a stone chakki, our Barley Porridge is prepared with a focus on purity, quality, and natural goodness. With no artificial additives or unnecessary ingredients, it makes a wholesome and convenient choice for a nourishing breakfast",
+      "tags": [
+        "Fresh",
+        "Barley"
+      ],
+      "images": [
+        "images/products/al-fareed-barley-porridge/1786822520500-804756.jpg",
+        "images/products/al-fareed-barley-porridge/1786822523649-897485.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "al-fareed-barley-porridge-roasted",
+      "name": "Barley Porridge (Roasted)",
+      "category": "wheat-flour",
+      "price": 155,
+      "unit": "450g",
+      "sizes": [
+        "450g"
+      ],
+      "badge": "Best Seller",
+      "short": "A nourishing barley porridge, naturally stone-ground for a simple and wholesome breakfast.",
+      "desc": "Made from carefully selected barley and traditionally ground on a stone chakki, our Barley Porridge is prepared with a focus on purity, quality, and natural goodness. With no artificial additives or unnecessary ingredients, it makes a wholesome and convenient choice for a nourishing breakfast",
+      "tags": [
+        "Barley"
+      ],
+      "images": [
+        "images/products/al-fareed-barley-porridge-roasted/1786822569393-31770.jpg",
+        "images/products/al-fareed-barley-porridge-roasted/1786822572523-731269.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "al-fareed-barley-flakes",
+      "name": "Barley Flakes",
+      "category": "wheat-flour",
+      "price": 250,
+      "unit": "400g",
+      "sizes": [
+        "400g"
+      ],
+      "badge": "Best Seller",
+      "short": "Carefully processed and lightly rolled, our Barley Porridge Flakes retain their natural goodness while being hygienically packed for freshness and consistent quality.",
+      "desc": "Our Barley Porridge Flakes are carefully prepared by removing the barley hull with precision, preserving the flakes’ naturally light, white appearance. The grains are then conditioned with controlled moisture and temperature before being gently rolled, dried, and packed in a hygienic, automated process to maintain consistent quality and freshness",
+      "tags": [
+        "Barley"
+      ],
+      "images": [
+        "images/products/al-fareed-barley-flakes/1786865157255-632907.jpg",
+        "images/products/al-fareed-barley-flakes/1786865157257-317392.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "al-fareed-wheatporridge",
+      "name": "Wheat Porridge",
+      "category": "wheat-flour",
+      "price": 100,
+      "unit": "500g",
+      "sizes": [
+        "500g"
+      ],
+      "badge": "",
+      "short": "Wholesome stone-ground wheat porridge, made from quality wheat for a simple and nourishing everyday meal.",
+      "desc": "Prepared from carefully selected wheat, our Wheat Porridge is traditionally ground on a stone chakki to achieve a naturally wholesome texture. Produced without artificial additives and handled under strict hygiene standards, it offers a simple, nutritious, and convenient choice for everyday meals",
+      "tags": [
+        "Wheat",
+        "healthy"
+      ],
+      "images": [
+        "images/products/al-fareed-wheatporridge/1786822714390-1453.jpg",
+        "images/products/al-fareed-wheatporridge/1786822714390-285955.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "item",
+      "name": "Wheat Flakes",
+      "category": "wheat-flour",
+      "price": 200,
+      "unit": "400g",
+      "sizes": [
+        "400g"
+      ],
+      "badge": "",
+      "short": "Light, wholesome wheat flakes, gently rolled and hygienically packed to preserve their natural taste and freshness.",
+      "desc": "Our Wheat Porridge Flakes are made from quality wheat, prepared and rolled to create a light, uniform flake with a pleasant texture. The flakes are then dried and hygienically packed, preserving their freshness and natural taste from production to packaging.",
+      "tags": [
+        "Wheat",
+        "Protein"
+      ],
+      "images": [
+        "images/products/item/1786822790122-463919.jpg",
+        "images/products/item/1786822790123-321509.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "item-2",
+      "name": "Barley Flour",
+      "category": "multigrain-flour",
+      "price": 140,
+      "unit": "500g",
+      "sizes": [
+        "500g"
+      ],
+      "badge": "Best Seller",
+      "short": "Freshly stone-ground barley flour that preserves its natural goodness, texture, and freshness",
+      "desc": "Our Barley Flour is freshly ground from quality barley using traditional stone chakki milling. This time-honoured method preserves the flour’s natural texture and wholesome character, delivering a product that retains its purity and freshnes",
+      "tags": [
+        "Barley",
+        "Flour"
+      ],
+      "images": [
+        "images/products/item-2/1786822824960-70683.jpg",
+        "images/products/item-2/1786822824960-147297.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "pure-barley-flour",
+      "name": "Rice Flour",
+      "category": "multigrain-flour",
+      "price": 120,
+      "unit": "500g",
+      "sizes": [
+        "500g"
+      ],
+      "badge": "",
+      "short": "Finely milled rice flour with a smooth texture, made from quality rice for fresh and versatile everyday use.",
+      "desc": "Our Rice Flour is finely milled to produce a smooth, light texture suitable for a variety of culinary uses. Made from quality rice and prepared with precision, it retains its natural purity and freshness for a consistently reliable product.",
+      "tags": [
+        "Rice",
+        "Flour"
+      ],
+      "images": [
+        "images/products/pure-barley-flour/1786822851098-23082.jpg",
+        "images/products/pure-barley-flour/1786822851098-994847.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "item-3",
+      "name": "Multigrain Flour",
+      "category": "multigrain-flour",
+      "price": 600,
+      "unit": "2.5kg",
+      "sizes": [
+        "2.5kg"
+      ],
+      "badge": "",
+      "short": "A balanced blend of grains and seeds, finely milled into a wholesome flour for soft, nutritious rotis and everyday meals.",
+      "desc": "Our Multigrain Flour brings together barley, wheat, corn, black chickpeas, pearl millet, chia seeds, oats, sorghum, and moringa in a carefully balanced blend. Each ingredient is combined in the right proportion before being milled into a smooth, wholesome flour.\nOur focus is not only on bringing together a variety of nutritious grains and seeds, but also on creating a flour that produces soft, enjoyable rotis—making it a practical and wholesome choice for everyday meals.",
+      "tags": [
+        "Barley",
+        "Wheat",
+        "Corn Flour",
+        "Black Chickpeas",
+        "Pearl Millet ( Bajra )",
+        "Moringa",
+        "Chia Seeds",
+        "Oats",
+        "Sorghum ( Jawar )"
+      ],
+      "images": [
+        "images/products/item-3/1786822884969-885244.jpg",
+        "images/products/item-3/1786822884970-760774.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "item-4",
+      "name": "Suji Sawayan",
+      "category": "barley-flour",
+      "price": 150,
+      "unit": "0.5kg",
+      "sizes": [
+        "0.5kg",
+        "1kg"
+      ],
+      "badge": "",
+      "short": "Delicate, firm Suji Vermicelli made from fine suji and flour, perfect for easy and delicious everyday recipes.\n\nSlimmed also available in same packaging.",
+      "desc": "Our Suji Vermicelli is made from a balanced blend of fine suji and all-purpose flour, creating delicate, firm strands with a pleasant texture. Ideal for a variety of traditional and everyday recipes, it cooks easily while maintaining its shape and texture",
+      "tags": [
+        "Suji",
+        "All Purpose Flour"
+      ],
+      "images": [
+        "images/products/item-4/1786822953061-659376.jpg",
+        "images/products/item-4/1786822953062-751408.jpg"
+      ],
+      "sizePrices": {},
+      "types": [
+        "Mota",
+        "Bareekh"
+      ],
+      "variants": {
+        "Mota": {
+          "images": [
+            "images/products/item-4/variants/mota/1786823061170-310536.jpg"
+          ]
+        },
+        "Mota::0.5kg": {
+          "images": [
+            "images/products/item-4/variants/mota-0-5kg/1786823011430-126786.jpg",
+            "images/products/item-4/variants/mota-0-5kg/1786823011431-800105.jpg"
+          ]
+        },
+        "Mota::1kg": {
+          "images": [
+            "images/products/item-4/variants/mota-1kg/1786823001320-449041.jpg",
+            "images/products/item-4/variants/mota-1kg/1786823001320-838837.jpg"
+          ]
+        },
+        "Bareekh": {
+          "images": [
+            "images/products/item-4/variants/bareekh/1786823069925-81352.jpg"
+          ]
+        },
+        "Bareekh::0.5kg": {
+          "images": [
+            "images/products/item-4/variants/bareekh-0-5kg/1786823033121-345410.jpg",
+            "images/products/item-4/variants/bareekh-0-5kg/1786823033122-355228.jpg"
+          ]
+        },
+        "Bareekh::1kg": {
+          "images": [
+            "images/products/item-4/variants/bareekh-1kg/1786823039664-621347.jpg",
+            "images/products/item-4/variants/bareekh-1kg/1786823044097-566177.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "baisan",
+      "name": "Baisan",
+      "category": "barley-flour",
+      "price": 260,
+      "unit": "1kg",
+      "sizes": [
+        "1kg",
+        "500g"
+      ],
+      "badge": "",
+      "short": "Smooth, finely ground besan made from quality chickpeas, perfect for a variety of traditional and everyday recipes.",
+      "desc": "Made from finely ground chickpeas, our Besan has a smooth texture and rich, natural character that makes it a versatile staple in the kitchen. Perfect for preparing pakoras, chilla, kadhi, boondi, ladoos, and a variety of traditional South Asian recipes, it blends easily into both everyday cooking and classic favourites",
+      "tags": [
+        "Daal Chana",
+        "Fresh"
+      ],
+      "images": [
+        "images/products/baisan/1786823361969-325650.jpg",
+        "images/products/baisan/1786823361970-855027.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {
+        "size:1kg": {
+          "images": [
+            "images/products/baisan/variants/size-1kg/1786823392342-120683.jpg",
+            "images/products/baisan/variants/size-1kg/1786823392343-385351.jpg"
+          ]
+        },
+        "size:500g": {
+          "images": [
+            "images/products/baisan/variants/size-500g/1786823399328-257108.jpg",
+            "images/products/baisan/variants/size-500g/1786823399329-808980.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "baisan-pakori",
+      "name": "Baisan Pakori",
+      "category": "barley-flour",
+      "price": 220,
+      "unit": "400g",
+      "sizes": [
+        "400g",
+        "200g"
+      ],
+      "badge": "",
+      "short": "Crispy Pakoriyan made from a smooth Besan blend, perfect for Dahi Bhallay, chutneys, and yogurt-based dishes.\n\nLong and Round Available",
+      "desc": "Our Pakoriyan are prepared from a balanced blend of Besan and all-purpose flour, mixed into a smooth batter and fried to a satisfying texture in quality cooking oil. Made especially for Dahi Bhallay, they are also perfect for enjoying with chutney, yogurt, or your favourite toppings",
+      "tags": [
+        "Baisan",
+        "all Purpose Flour"
+      ],
+      "images": [
+        "images/products/baisan-pakori/1786865183805-496170.jpg",
+        "images/products/baisan-pakori/1786865183806-620911.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {
+        "size:400g": {
+          "images": [
+            "images/products/baisan-pakori/variants/size-400g/1786865198104-982617.jpg",
+            "images/products/baisan-pakori/variants/size-400g/1786865198105-304175.jpg"
+          ]
+        },
+        "size:200g": {
+          "images": [
+            "images/products/baisan-pakori/variants/size-200g/1786865203012-4830.jpg",
+            "images/products/baisan-pakori/variants/size-200g/1786865203013-568064.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "pota-sawayan",
+      "name": "Pota Sawayan",
+      "category": "barley-flour",
+      "price": 160,
+      "unit": "300g",
+      "sizes": [
+        "300g"
+      ],
+      "badge": "",
+      "short": "Stone-ground makai atta for makki di roti and winter classics.",
+      "desc": "Our Pota Seviyan is a traditional handmade vermicelli made from a blend of suji and all-purpose flour. Each piece is shaped by hand to achieve its distinctive fingertip-sized form, giving it an authentic traditional character. Perfect for preparing traditional seviyan dishes and sweet preparations, it brings a homemade touch and unique texture to every recipe.",
+      "tags": [
+        "Suji",
+        "All Purpose Flour"
+      ],
+      "images": [
+        "images/products/pota-sawayan/1786823562025-617387.jpg",
+        "images/products/pota-sawayan/1786823562025-258883.jpg"
+      ],
+      "sizePrices": {},
+      "types": [],
+      "variants": {}
+    },
+    {
+      "slug": "wheat-flour",
+      "name": "Wheat Flour",
+      "category": "multigrain-flour",
+      "price": 0,
+      "unit": "2.5kg",
+      "sizes": [
+        "2.5kg"
+      ],
+      "sizePrices": {},
+      "badge": "Best Seller",
+      "short": "Traditionally stone-ground from carefully selected wheat, our Gandum Aata is naturally wholesome, finely textured, and perfect for soft, tender, and flavourful rotis.",
+      "desc": "Our Gandum Aata (Wheat Flour) is traditionally prepared from carefully selected wheat, ground through a traditional Chakki (stone mill) to preserve the natural goodness and wholesome character of the grain. This time-honoured grinding process produces finely textured flour while retaining the essential components of whole wheat.\nThe result is a fresh, naturally wholesome flour that is ideal for everyday cooking and particularly suited for making soft, tender and flavourful rotis. Its fine texture and balanced consistency make the dough easy to knead and help produce rotis that remain soft and enjoyable with every meal.",
+      "tags": [
+        "Wheat"
+      ],
+      "images": [
+        "images/products/wheat-flour/1787606004077-87868.jpg",
+        "images/products/wheat-flour/1787606004079-748752.jpg"
+      ],
+      "types": [],
+      "variants": {}
+    }
+  ]
+}
