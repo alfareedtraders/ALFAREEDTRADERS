@@ -238,7 +238,8 @@ const PRODUCTS = [
     "unit": "0.5kg",
     "sizes": [
       "0.5kg",
-      "1kg"
+      "1kg",
+      "0.2kg"
     ],
     "badge": "",
     "short": "Delicate, firm Suji Vermicelli made from fine suji and flour, perfect for easy and delicious everyday recipes.\n\nSlimmed also available in same packaging.",
@@ -251,7 +252,9 @@ const PRODUCTS = [
       "images/products/item-4/1786822953061-659376.jpg",
       "images/products/item-4/1786822953062-751408.jpg"
     ],
-    "sizePrices": {},
+    "sizePrices": {
+      "0.2kg": 70
+    },
     "types": [
       "Mota",
       "Bareekh"
