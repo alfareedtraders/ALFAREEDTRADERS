@@ -24,7 +24,7 @@
       "slug": "al-fareed-barley-porridge",
       "name": "Barley Porridge",
       "category": "wheat-flour",
-      "price": 150,
+      "price": 200,
       "unit": "450g",
       "sizes": [
         "450g"
@@ -48,7 +48,7 @@
       "slug": "al-fareed-barley-porridge-roasted",
       "name": "Barley Porridge (Roasted)",
       "category": "wheat-flour",
-      "price": 155,
+      "price": 210,
       "unit": "450g",
       "sizes": [
         "450g"
@@ -94,7 +94,7 @@
       "slug": "al-fareed-wheatporridge",
       "name": "Wheat Porridge",
       "category": "wheat-flour",
-      "price": 100,
+      "price": 125,
       "unit": "500g",
       "sizes": [
         "500g"
@@ -142,7 +142,7 @@
       "slug": "item-2",
       "name": "Barley Flour",
       "category": "multigrain-flour",
-      "price": 140,
+      "price": 200,
       "unit": "500g",
       "sizes": [
         "500g"
@@ -166,7 +166,7 @@
       "slug": "pure-barley-flour",
       "name": "Rice Flour",
       "category": "multigrain-flour",
-      "price": 120,
+      "price": 150,
       "unit": "500g",
       "sizes": [
         "500g"
@@ -322,7 +322,7 @@
       "slug": "baisan-pakori",
       "name": "Baisan Pakori",
       "category": "barley-flour",
-      "price": 220,
+      "price": 300,
       "unit": "400g",
       "sizes": [
         "400g",
@@ -360,7 +360,7 @@
       "slug": "pota-sawayan",
       "name": "Pota Sawayan",
       "category": "barley-flour",
-      "price": 160,
+      "price": 300,
       "unit": "300g",
       "sizes": [
         "300g"
@@ -384,10 +384,10 @@
       "slug": "wheat-flour",
       "name": "Wheat Flour",
       "category": "multigrain-flour",
-      "price": 0,
-      "unit": "2.5kg",
+      "price": 950,
+      "unit": "5kg",
       "sizes": [
-        "2.5kg"
+        "5kg"
       ],
       "sizePrices": {},
       "badge": "Best Seller",
