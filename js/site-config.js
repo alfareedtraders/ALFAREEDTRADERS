@@ -10,9 +10,9 @@
 const SITE = {
   "name": "Alfareed Traders",
   "currencySymbol": "Rs. ",
-  "whatsappNumber": "923390110342",
+  "whatsappNumber": "923005183676",
   "whatsappMessage": "Hi Alfareed Traders, I'd like to know more about your flour products.",
-  "phoneDisplay": "+92 339 0110342",
+  "phoneDisplay": "+92 300 5183676",
   "email": "alfareed.pk@gmail.com",
   "address": "Alfareed Traders, 27-Km,Feroze pur Road Soa Asal,Lahore",
   "facebook": "https://facebook.com/",
